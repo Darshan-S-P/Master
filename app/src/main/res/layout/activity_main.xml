@@ -36,5 +36,5 @@
         android:layout_marginEnd="32dp"
         android:layout_marginBottom="32dp"
         android:backgroundTint="@android:color/holo_green_dark"
-        android:src="@drawable/baseline_camera_alt_244" />
+        android:src="@drawable/baseline_add_24" />
 </RelativeLayout>
